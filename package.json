@@ -1,0 +1,20 @@
+{
+  "name": "cse-341-project1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/blburgen/cse-341-project1#readme",
+  "bugs": {
+    "url": "https://github.com/blburgen/cse-341-project1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blburgen/cse-341-project1.git"
+  },
+  "license": "ISC",
+  "author": "Brady Burgener",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
